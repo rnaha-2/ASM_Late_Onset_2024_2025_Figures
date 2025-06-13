@@ -1,6 +1,6 @@
-# ASM_Late_Onset_2024_2025_Figures
+# Late ASM 2024/2025 Manuscript Figures:
 
-Late ASM 2024/2025 Manuscript Figures:
+Brief description of the figures in All_figures.ipynb
 
 Fig. 1 - Atmospheric and surface land and ocean conditions prior and during the official ASM onset in early February 2025.
 
