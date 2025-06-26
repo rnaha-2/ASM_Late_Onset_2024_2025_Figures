@@ -1,6 +1,6 @@
 # Late ASM 2024/2025 Manuscript Figures:
 
-Brief description of the figures in All_figures.ipynb
+Brief description of the figures in All_figures.ipynb:
 
 Fig. 1 - Atmospheric and surface land and ocean conditions prior and during the official ASM onset in February 2025. Shown are 3-day accumulated rainfall totals from 4 to 6 February 2025 (shaded colors over land; mm), 850 hPa geopotential height (contours; m) and winds (vectors; m/s). Average sea surface temperature anomalies (SSTa) from 15 December 2024 to 6 February 2025 (shaded colors over ocean; °C) are calculated from a December-January 30-year climatology (1991-2020). 
 
