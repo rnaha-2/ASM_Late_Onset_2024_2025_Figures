@@ -16,9 +16,9 @@ Suppl Fig. 1 - October 2024 - January 2025 mean rainfall anomalies (mm) calculat
 
 Suppl Fig. 2 - Reconstructed monthly rainfall anomalies over northern Australia (112°-154°E, 10°-29°S) for (a-h) December 2024 and (i-p) January 2025, based on a multiple linear regression (MLR) analysis using standardized climate indices affecting Australia’s rainfall (namely ENSO, IOD, MJO and the SAM).
 
-Suppl Fig. 3 - Comparison of the official historical ASM onset dates (D96) and onset dates from seven different ASM and rainy season onset definitions from 1 September to 1 March.
+Suppl Fig. 3 - Comparison of the official historical ASM onset dates (D96) and onset dates from seven different ASM and rainy season onset definitions from 1 September to 1 March. Each panel compares the D96 (y-axis) to another onset definition (x-axis): (a) D96 vs H86, (b) D96 vs H90, (c) D96 vs HY04, (d) D96 vs N82, (e) D96 vs NRO, (f) D96 vs U21, and (g) D96 vs T61. 
 
-Suppl Fig. 4 - A comparison of the ASM indices from September 2024 to February 2025 (inclusive) at Weipa Aero (12.68°S, 141.92°E). 
+Suppl Fig. 4 - A comparison of the ASM indices from September 2024 to February 2025 (inclusive) at Weipa Aero (12.68°S, 141.92°E). Shown are (top three panels) the ASM indices, including (a) the official Bureau ASM index (D96), (b) H86, and (c) HL90. The bottom two panels show a comparison of monsoon onset dates between D96 and two other ASM definitions at Weipa Aero: (d) D96 vs H86, and (e) D96 vs H90.
 
 Suppl Fig. 6 - Distribution of RMM1 and RMM2 values on the MJO phase space diagram for monsoon onset dates identified using the official (D96) ASM onset definition. 
 
