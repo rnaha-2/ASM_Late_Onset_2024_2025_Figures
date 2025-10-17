@@ -20,9 +20,11 @@ Suppl Fig. 3 - Comparison of the official historical ASM onset dates (D96) and o
 
 Suppl Fig. 4 - A comparison of the ASM indices from September 2024 to February 2025 (inclusive) at Weipa Aero (12.68°S, 141.92°E). Shown are (top three panels) the ASM indices, including (a) the official Bureau ASM index (D96), (b) H86, and (c) HL90. The bottom two panels show a comparison of monsoon onset dates between D96 and two other ASM definitions at Weipa Aero: (d) D96 vs H86, and (e) D96 vs H90.
 
-Suppl Fig. 6 - Distribution of RMM1 and RMM2 values on the MJO phase space diagram for monsoon onset dates identified using the official (D96) ASM onset definition. 
+Suppl Fig. 5 - Distribution of RMM1 and RMM2 values on the MJO phase space diagram for monsoon onset dates identified using the official (D96) ASM onset definition. 
 
-Suppl Fig. 7 - 5-day centered averages of zonal shear line at 850 hPa (0 m/s zonal wind, indicated by solid blue lines), rainfall (colors; mm), mean sea level pressure (MSLP, contours; hPa) and winds at 850 hPa (vectors; m/s) over Australia for different monsoon onset dates, based on the ASM definitions considered: (a) NRO, (b) U21, (c) T61, (d) HY04, (e) N82, (f) H86 and HL90, and (g) D96.
+Suppl. Fig. 7 - (a) 850 hPa wind and OLR anomalies averaged over 1–10 December 2024, relative to a 1974–2021 climatology. (Bottom) Longitude–pressure cross section of (b) mean zonal wind and (c) anomalies at the latitude of Darwin (~12.5°S) for 1–10 December 2024. The dashed vertical line in (b) and (c) signify the approximate location of Darwin.
+
+Suppl Fig. 8 - 5-day centered averages of zonal shear line at 850 hPa (0 m/s zonal wind, indicated by solid blue lines), rainfall (colors; mm), mean sea level pressure (MSLP, contours; hPa) and winds at 850 hPa (vectors; m/s) over Australia for different monsoon onset dates, based on the ASM definitions considered: (a) NRO, (b) U21, (c) T61, (d) HY04, (e) N82, (f) H86 and HL90, and (g) D96.
 
 
 
